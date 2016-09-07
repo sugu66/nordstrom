@@ -8,6 +8,7 @@ Steps to set-up:
 6. Open Node directory (example – C:\Program Files\nodejs\node_modules) . Copy “npm” folder and place it in “Project/lib/npm” directory
 7. Place selenium-server-standalone-{VERSION}.jar in Project/lib/selenium.
 8.Download chrome driver and IE driver into lib folder.
+9.Specify the path of runner.js in 'nightwatch.js' file which is present in project/lib/nightwatch folder. 
 
 How to Run:
 
