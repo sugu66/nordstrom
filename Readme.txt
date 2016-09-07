@@ -1,14 +1,14 @@
 Steps to set-up:
 
-1. Download Node js from ñ https://nodejs.org/download/ and install
+1. Download Node js from ‚Äì https://nodejs.org/download/ and install
 2. Download Selenium server from http://docs.seleniumhq.org/download/
 3. Navigate to any directory and download nightwatch from command line(npm install nightwatch)
 4.Extract the folders from the NodeStrom folder and place directly in the [project-name]root folder
-5. Now copy the nightwatch folder (which was downloaded by cmd in step 3) and place it ñ ìProject/lib/nightwatchî path
-6. Open Node directory (example ñ C:\Program Files\nodejs\node_modules) . Copy ìnpmî folder and place it in ìProject/lib/npmî directory
+5. Now copy the nightwatch folder (which was downloaded by cmd in step 3) and place it ‚Äì ‚ÄúProject/lib/nightwatch‚Äù path
+6. Open Node directory (example ‚Äì C:\Program Files\nodejs\node_modules) . Copy ‚Äúnpm‚Äù folder and place it in ‚ÄúProject/lib/npm‚Äù directory
 7. Place selenium-server-standalone-{VERSION}.jar in Project/lib/selenium.
 8.Download chrome driver and IE driver into lib folder.
-9.Specify the path of runner.js in 'nightwatch.js' file which is present in project/lib/nightwatch folder. 
+9.Specify the path of runner.js which is present in project/lib/nightwatch folder in 'nightwatch.js' file. 
 
 How to Run:
 
